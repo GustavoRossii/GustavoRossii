@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do GustavoRossii 😁
+## Bem-vindo(a) ao perfil do GustavoRossii 
 
  <div>
    <a href="https://github.com/GustavoRossii">
